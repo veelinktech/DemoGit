@@ -1,12 +1,17 @@
 public class Sample
 {
 
+public static void m1()
+{
+    System.out.println("Git");
+
+    System.out.println("GitHub");
+}
+
   public static void main(String[] args)
   {
 
-     System.out.println("Git");
-
-     System.out.println("GitHub");
+    m1();
 
   }
 }
