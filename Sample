@@ -1,9 +1,32 @@
 class Demo:
-    def m3():
+
+    
+    def m4():
         print("Sample")
-    def m4()
+    def m5()
         print("Sample2")
-if __name__=="__main__":
-D=demo();
-d.m3()
-d.m4()
+
+    def m1(self):
+        print("Testcase1")
+
+    def m2(self):
+        print("Testcase2")
+
+    def m3(self):
+        print("Testcase2")
+
+if __name__ == "__main__":
+
+    d = Demo();
+
+    d.m1()
+
+    d.m2()
+
+    d.m3()
+    
+    d.m4()
+    
+    d.m5()
+
+
