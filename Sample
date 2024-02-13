@@ -1,5 +1,11 @@
 class Demo:
 
+    
+    def m4():
+        print("Sample")
+    def m5()
+        print("Sample2")
+
     def m1(self):
         print("Testcase1")
 
@@ -18,4 +24,9 @@ if __name__ == "__main__":
     d.m2()
 
     d.m3()
+    
+    d.m4()
+    
+    d.m5()
+
 
