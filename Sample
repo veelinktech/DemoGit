@@ -1,28 +1,9 @@
-public class Sample
-{
-
-public  void m1()
-{
-    System.out.println("Git");   
-}
-
-public  void m2()
-{
-    System.out.println("GitHub");
-}
-
-public static void m3()
-{
-    System.out.println("Jenkins");
-}
-public static void main(String[] args)
-{
-
-    Sample s1=new Sample();
-
-    s1.m1();
-    s1.m2();
-    
-
-}
-}
+class Demo:
+    def m3():
+        print("Sample")
+    def m4()
+        print("Sample2")
+if __name__=="__main__":
+D=demo();
+d.m3()
+d.m4()
