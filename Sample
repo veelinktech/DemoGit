@@ -6,6 +6,9 @@ class Demo:
     def m2(self):
         print("Testcase2")
 
+    def m3(self):
+        print("Testcase2")
+
 if __name__ == "__main__":
 
     d = Demo();
@@ -13,4 +16,6 @@ if __name__ == "__main__":
     d.m1()
 
     d.m2()
+
+    d.m3()
 
