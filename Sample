@@ -1,11 +1,14 @@
 class Demo:
 
-    
-    def m4():
+@staticmethod
+   def m4():
         print("Sample")
+@staticmethod
     def m5()
         print("Sample2")
-
+@staticmethod
+    def m6()
+        print("hi saivasudha")
     def m1(self):
         print("Testcase1")
 
